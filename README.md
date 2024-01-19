@@ -1,4 +1,4 @@
-### Hi there! 👋
+<h1>Hi There! 👋</h1>
 
 <!-- Redes Sociais -->
 <div>
@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/fabyanroger" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## My name is Fabyan Roger
 <!-- GitHub Contribution Grid Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabyanroger/fabyanroger/output/github-contribution-grid-snake-dark.svg">
@@ -13,23 +14,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabyanroger/fabyanroger/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabyanroger&show_icons=true&hide_title=true&count_private=true&hide=issues)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabyanroger&layout=compact&hide_progress=true)
-
-<!--
-**fabyanroger/fabyanroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  
+[![Fabyan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabyanroger&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
