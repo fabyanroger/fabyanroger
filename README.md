@@ -15,17 +15,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 </div>
 
-### Skills and Knowledge
+### Habilidades e Conhecimentos
   - ![Java](https://img.shields.io/badge/Java-66380D?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4787E0?style=for-the-badge&logo=mysql&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-DE5C33?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-8762E1?&style=for-the-badge&logo=css3&logoColor=white)
-- **Currently Learning:** Continuously exploring and learning new technologies.
+- **Em Processo de Aprendizado:** Continuamente explorando e aprendendo novas tecnologias.
 
-### Future Goals
-- **Exploring New Technologies:** Excited to explore and learn more about upcoming technologies.
+### Objetivos Futuros
+- **Explorando Novas Tecnologias:** Estou ansioso para explorar e aprender mais sobre tecnologias que estão por vir.
 
 ##
 <!-- GitHub Contribution Grid Snake Animation -->
