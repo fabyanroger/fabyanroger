@@ -4,7 +4,7 @@
 <div>
   <a href="mailto:fabyanroger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabyanroger" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="URL_DA_SUA_PAGINA_NO_ALURA" target="_blank"><img src="INSIRA_UMA_IMAGEM_OU_ICONE" alt="Alura" height="28" width="28" style="border-radius: 5px;"></a>
+  <a href="https://cursos.alura.com.br/user/fabyanroger" target="_blank"><img src="INSIRA_UMA_IMAGEM_OU_ICONE" alt="Alura" height="28" width="28" style="border-radius: 5px;"></a>
 </div>
 
 <!-- GitHub Contribution Grid Snake Animation -->
