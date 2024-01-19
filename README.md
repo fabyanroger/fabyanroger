@@ -14,8 +14,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabyanroger/fabyanroger/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="left">
+<div align="left
   
-[![Fabyan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabyanroger&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
+  [![Fabyan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabyanroger&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
