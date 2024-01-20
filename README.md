@@ -1,6 +1,6 @@
 <h1>Hi There! 👋</h1>
 
-![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=9D00F2&size=30&weight=700&lines=Call+me+Fabyan;FabyanRoger)
+![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=CBDAE6&size=30&weight=700&lines=Call+me+Fabyan;FabyanRoger)
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com o objetivo de me tornar um desenvolvedor full stack.
 
