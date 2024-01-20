@@ -24,7 +24,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ---
 
 ## Fabyan favorite tools and technologies ⚙️ 
-#### Ferramentas e tecnologias com as quais tenho estudado e tenho interesse.
+#### Ferramentas e tecnologias com as quais tenho estudado e tenho interesse:
 
 <table>
   <tr>
