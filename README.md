@@ -11,12 +11,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ##
 
-<div align="center">
-  
-  [![Fabyan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabyanroger&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
 <div align="right">
   <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
 </div>
