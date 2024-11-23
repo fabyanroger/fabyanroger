@@ -36,10 +36,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
             <br>Javascript
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-            <br>MySQL
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
             <br>HTML
         </td>
@@ -48,42 +44,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
             <br>CSS
         </td>
         <td align="center" width="96">
-                <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-            <br>PHP
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Git" />
+            <br>Python
         </td>
-           <td align="center" width="96">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
             <br>Git
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-            <br>Postman
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-            <br>Node.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-            <br>Github
-        </td>
-        <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-            <br>GitLab
-        </td>
-        <td align="center" width="96">
-                <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="Ubuntu" />
-            <br>Ubuntu
-        </td>
-        <td align="center" width="96">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VS Code" />
-            <br>VS Code
-            <td align="center" width="96">
-                <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="48" height="48" alt="IntelliJ IDEA" />
-                <br>IntelliJ IDEA
-            </td>
         </td>
     </tr>
 </table>
